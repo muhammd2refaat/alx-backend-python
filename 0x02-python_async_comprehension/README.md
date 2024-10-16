@@ -1,4 +1,4 @@
-### 0x02. Python - Async Comprehension
+# 0x02. Python - Async Comprehension
 
 ## Learning Objectives
 
